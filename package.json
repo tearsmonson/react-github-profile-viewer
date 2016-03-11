@@ -1,12 +1,12 @@
 {
-  "name": "mygithub",
+  "name": "Hao Niu",
   "version": "1.0.0",
   "description": "Get and display user github info",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brad Traversy",
+  "author": "Hao Niu",
   "license": "ISC",
   "devDependencies":{
   	"babel-core":"5.8.*",
